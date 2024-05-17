@@ -23,3 +23,4 @@ Here are some ideas to get you started:
 </div>
 
 ![Snake animation](https://github.com/thebinario/thebinario/blob/output/github-contribution-grid-snake.svg)
+![Animation commits](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
