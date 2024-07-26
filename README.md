@@ -1,16 +1,15 @@
-# Hello there, I'm [Your Name]! 👋
+# Hello there, I'm Abimael de Oliveira Ferreira! 👋
 
 Welcome to my GitHub profile! I'm passionate about coding, technology, and continuous learning. Here's a bit more about me and my work:
 
 ## 🚀 About Me
-- 🔭 I’m currently working on: **[Your Current Project/Work]**
-- 🌱 I’m currently learning: **[New Technologies/Skills]**
-- 👯 I’m looking to collaborate on: **[Projects/Topics]**
-- 🤔 I’m looking for help with: **[Areas you need assistance]**
-- 💬 Ask me about: **[Your Expertise/Interest Areas]**
-- 📫 How to reach me: **[Your Contact Information]**
-- 😄 Pronouns: **[Your Pronouns]**
-- ⚡ Fun fact: **[A Fun Fact About You]**
+- 🔭 I’m currently working on: **Developing innovative solutions at FPF Tech**
+- 🌱 I’m currently learning: **Pentesting and preparing for the DCPT certification at DESEC**
+- 👯 I’m looking to collaborate on: **Fullstack development projects, especially using Flutter, Angular, Next.js and Prisma**
+- 🤔 I’m looking for help with: **Optimizing mobile applications and improving LinkedIn profiles**
+- 💬 Ask me about: **Fullstack development, pentesting, and more**
+- 📫 How to reach me: **dev.abimaelferreira@gmail.com**
+- ⚡ Fun fact: **I love word games and I'm developing a 2D game called 'Moto Cross Zumbi'**
 
 ## 📊 GitHub Stats
 
@@ -29,10 +28,10 @@ Welcome to my GitHub profile! I'm passionate about coding, technology, and conti
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abimael-oliveira-ferreira)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/your-profile)
 [![Website](https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=google-chrome)](https://yourwebsite.com)
 
 Feel free to explore my repositories and projects. Contributions, feedback, and discussions are always welcome!
 
-Thanks for stopping by, and happy coding! 😄
+Thanks for stopping by, happy coding and happy hacking! 😄
