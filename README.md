@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm passionate about coding, technology, and conti
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abimael-oliveira-ferreira](https://br.linkedin.com/in/abimael-de-oliveira-ferreira-b870121a7))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://br.linkedin.com/in/abimael-de-oliveira-ferreira-b870121a7)
 [![Website](https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=google-chrome)](https://abimaelferreira.vercel.app/whoami)
 
 Feel free to explore my repositories and projects. Contributions, feedback, and discussions are always welcome!
